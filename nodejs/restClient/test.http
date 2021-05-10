@@ -1,0 +1,9 @@
+#### base url
+GET http://localhost:5000 HTTP/1.1
+
+#### insert url
+GET http://localhost:5000/insert HTTP/1.1
+
+
+#### insert url
+GET http://localhost:5000/data?from=53&to=69 HTTP/1.1

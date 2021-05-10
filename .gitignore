@@ -1,0 +1,6 @@
+__pycache__/
+env/
+.vscode
+.DS_Store
+my_env/
+node_modules/
